@@ -1,4 +1,11 @@
-### Hi there 👋
+
+## Real-World Projects
+
+## Personal Projects
+
+## Mathematics Notebooks
+
+## Course Projects
 
 <!--
 **Isaac-Fate/Isaac-Fate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
