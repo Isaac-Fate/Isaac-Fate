@@ -1,0 +1,12 @@
+# Mac
+**/.DS_Store
+
+# Python
+**/__pycache__/
+**/.ipynb_checkpoints/
+
+# Playground
+playground/
+
+# Secret .env file
+.env
