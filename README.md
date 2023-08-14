@@ -13,8 +13,6 @@ During my internship at FOSUN company, I contributed to the data-driven non-inva
 
 In my spare time, I continuously review mathematics and document my findings in comprehensive notebooks. This practice not only reinforces my understanding but also demonstrates my commitment to continuous learning and knowledge dissemination.
 
-I am excited to embark on a PhD journey that will allow me to delve deeper into these research areas and contribute to the advancement of knowledge.
-
 
 ## Real-World Projects
 
