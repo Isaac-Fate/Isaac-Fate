@@ -22,13 +22,15 @@ In my spare time, I continuously review mathematics and document my findings in 
 ## Personal Projects
 
 - AI Assistant with Local Knowledge Base of Obsidian Notes.
-- Deep Dream: A PyTorch implementation of the well-known Deep Dream project, which can decorate a target image in a specified style using transfer learning. 
+- [Deep Dream](https://github.com/Isaac-Fate/deep-dream): A PyTorch implementation of the well-known Deep Dream project, which can decorate a target image in a specified style using transfer learning. 
 - [`xpyutils`](https://pypi.org/project/xpyutils/): A simple Python helper package that includes the implementation of lazy properties, singletons, etc.
 
 ## Mathematics Notebooks
 
 - [Mathematical Analysis](https://isaac-fate.github.io/mathematical-analysis/intro.html)
 - [Linear Algebra](https://isaac-fate.github.io/linear-algebra/intro.html)
+- [Probability Theory](https://isaac-fate.github.io/probability-theory/intro.html)
+- [Graph Theory](https://isaac-fate.github.io/graph-theory/intro.html)
 
 ## Course Projects
 
