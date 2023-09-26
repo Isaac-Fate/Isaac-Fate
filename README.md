@@ -14,19 +14,21 @@ During my internship at FOSUN company, I contributed to the data-driven non-inva
 In my spare time, I continuously review mathematics and document my findings in comprehensive notebooks. This practice not only reinforces my understanding but also demonstrates my commitment to continuous learning and knowledge dissemination.
 
 
-## Real-World Projects
+## Production Projects
 
-- Assistant AI for Sales Support
-- Automated Resume Generation
+- Assistant AI for Sales Support: A chatbot designed to assist sales officers within an educational organization. It aids in responding to inquiries from students' parents, providing timely and accurate information.
+- Automated Resume Generation: A web application designed to streamline the process of resume creation. It generates and refines resumes automatically, using basic user information provided as input.
 
 ## Personal Projects
 
-- [LLM chatbot equipped with domain-specific knowledge](https://github.com/Isaac-Fate/my-chat): A LLM chatbot that leverages document and vector databases. 
+- [LLM Chatbot Equipped with Domain-Specific Knowledge](https://github.com/Isaac-Fate/my-chat): A LLM chatbot that leverages document and vector databases. 
 Users can also configure the chatbot's profile to elicit more tailored responses.
 - [Deep Dream](https://github.com/Isaac-Fate/deep-dream): A PyTorch implementation of the well-known Deep Dream project, which can decorate a target image in a specified style using transfer learning. 
 - [`xpyutils`](https://pypi.org/project/xpyutils/): A simple Python helper package that includes the implementation of lazy properties, singletons, etc.
 
 ## Mathematics Notebooks
+
+I meticulously review and organize mathematical content, integrating my own understanding into the material. I then compile these insights into easy-to-digest notebooks, making the content more accessible and comprehensible.
 
 Below are the mathematics notebooks I am currently composing:
 
@@ -37,6 +39,5 @@ Below are the mathematics notebooks I am currently composing:
 
 ## Course Projects
 
-- Smartphone App on IOS
+- Smartphone App on IOS: A highly customizable mobile application designed for iOS devices using SwfitUI. It offers a feature-rich platform for tracking expenses across various categories, providing a personalized accounting experience.
 - [Stock Price Prediction](https://isaac-fate.github.io/stox/intro.html): A tempt of predicting stock prices using LSTM with elementary NLP analysis of the daily news.
-
