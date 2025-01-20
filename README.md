@@ -43,4 +43,6 @@ Below are the mathematics notebooks I am currently composing:
 - [Stock Price Prediction](https://isaac-fate.github.io/stox/intro.html): A tempt of predicting stock prices using LSTM with elementary NLP analysis of the daily news.
 
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Isaac-Fate)](https://github.com/anuraghazra/github-readme-stats)
+## Top Languages
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Isaac-Fate&hide=jupyter%20notebook" />
