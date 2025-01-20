@@ -41,3 +41,6 @@ Below are the mathematics notebooks I am currently composing:
 
 - Smartphone App on IOS: A highly customizable mobile application designed for iOS devices using SwfitUI. It offers a feature-rich platform for tracking expenses across various categories, providing a personalized accounting experience.
 - [Stock Price Prediction](https://isaac-fate.github.io/stox/intro.html): A tempt of predicting stock prices using LSTM with elementary NLP analysis of the daily news.
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=voyager19878"/>
