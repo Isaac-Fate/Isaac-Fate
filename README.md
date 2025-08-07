@@ -15,7 +15,7 @@ In my spare time, I continuously review mathematics and document my findings in 
 
 ## Personal Website
 
-Visit my [website](https://isaacfei.com), a pace where I jot down ideas, explore techniques, and share my journey through coding, data science and mathematics.
+Visit my [website](https://isaacfei.com), a space where I jot down ideas, explore techniques, and share my journey through coding, data science and mathematics.
 
 ## Production Projects
 
