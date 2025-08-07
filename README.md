@@ -13,6 +13,9 @@ During my internship at FOSUN company, I contributed to the data-driven non-inva
 
 In my spare time, I continuously review mathematics and document my findings in comprehensive notebooks. This practice not only reinforces my understanding but also demonstrates my commitment to continuous learning and knowledge dissemination.
 
+## Personal Website
+
+Visit my [website](https://isaacfei.com), a pace where I jot down ideas, explore techniques, and share my journey through coding, data science and mathematics.
 
 ## Production Projects
 
